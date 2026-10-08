@@ -1,0 +1,1 @@
+select annual_salary(100000) as annual_salary from dual;

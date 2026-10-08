@@ -1,0 +1,1 @@
+select year_of_service(date '2020-10-6') as year_of_service from dual;
